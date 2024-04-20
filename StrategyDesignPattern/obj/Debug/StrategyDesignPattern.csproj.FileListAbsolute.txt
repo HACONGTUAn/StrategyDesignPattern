@@ -1,0 +1,6 @@
+/Users/hacongtuan/project/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/StrategyDesignPattern.exe
+/Users/hacongtuan/project/StrategyDesignPattern/StrategyDesignPattern/bin/Debug/StrategyDesignPattern.pdb
+/Users/hacongtuan/project/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/StrategyDesignPattern.csproj.AssemblyReference.cache
+/Users/hacongtuan/project/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/StrategyDesignPattern.csproj.CoreCompileInputs.cache
+/Users/hacongtuan/project/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/StrategyDesignPattern.exe
+/Users/hacongtuan/project/StrategyDesignPattern/StrategyDesignPattern/obj/Debug/StrategyDesignPattern.pdb

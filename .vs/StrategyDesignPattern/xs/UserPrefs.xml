@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{12E99ADC-2F23-469B-A28E-65A8BB5631D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StrategyDesignPattern/Program.cs">
+    <Files>
+      <File FileName="StrategyDesignPattern/Properties/Ticket.cs" Line="35" Column="21" />
+      <File FileName="StrategyDesignPattern/Program.cs" Line="15" Column="87" />
+      <File FileName="StrategyDesignPattern/Properties/IPgiamTrategy.cs" Line="3" Column="22" />
+      <File FileName="StrategyDesignPattern/Properties/GiamGiaMotNua.cs" Line="4" Column="18" />
+      <File FileName="StrategyDesignPattern/Properties/GiamGiaTamMuoi.cs" Line="9" Column="10" />
+      <File FileName="StrategyDesignPattern/Properties/GiamGiaBonMuoi.cs" Line="4" Column="18" />
+      <File FileName="StrategyDesignPattern/Properties/AssemblyInfo.cs" Line="1" Column="25" />
+      <File FileName=".editorconfig" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StrategyDesignPattern" expanded="True">
+            <Node name="StrategyDesignPattern" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.StrategyDesignPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
